@@ -1,0 +1,25 @@
+{
+  "name": "yummy-bricks",
+  "version": "1.0.0",
+  "description": "Falling shape from the cloud, the more you click to poor the more score you get +1 each clicks",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prezine/Yummy-Bricks.git"
+  },
+  "keywords": [
+    "Game",
+    "Javascript",
+    "Web",
+    "jQuery"
+  ],
+  "author": "Tom and Fauxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prezine/Yummy-Bricks/issues"
+  },
+  "homepage": "https://github.com/prezine/Yummy-Bricks#readme"
+}
